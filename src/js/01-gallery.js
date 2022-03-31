@@ -31,7 +31,7 @@ function createImagesCard(images) {
 
 function onGalleryConteinerClick(event) {
     event.preventDefault();
-        if (event.target.nodeName !== 'IMG'){
-        return gallery;
-    }    
+        // if (event.target.nodeName !== 'IMG'){
+        // return gallery;
+    // }    
 }; 
